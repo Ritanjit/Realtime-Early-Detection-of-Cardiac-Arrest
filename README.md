@@ -56,8 +56,10 @@ To build an efficient and lightweight model for early detection of life-threaten
    cd early-detection-cardiac-arrest
    
 2. **Run in Google Colab:**
-Click the badge below to open directly in Colab:
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uRpSNWPYPE__Nhhtnl6-anwPlyJU5OGz#scrollTo=vWpy8lJWN45l)
+   
+  &nbsp;&nbsp; Click the badge below to open directly in Colab:
+
+  &nbsp;&nbsp; [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uRpSNWPYPE__Nhhtnl6-anwPlyJU5OGz#scrollTo=vWpy8lJWN45l)
 
 ---
 
